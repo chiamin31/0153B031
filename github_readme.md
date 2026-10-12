@@ -9,9 +9,10 @@
 | **學校 / University** | 臺灣海洋大學 |
 | **家鄉 / Hometown** | 彰化 |
 | **Email** | Chiamin66888@gmail.com |
-| **GitHub** | [0153B031](https://github.com/0153B031) |
+| **GitHub** | [https://github.com/0153B031](https://github.com/0153B031) |
 
-![個人照片](profile.jpg)
+### 個人照片
+<img src="image/profile_photo.png" width="300" alt="黃珈敏個人照片">
 
 ---
 
@@ -23,10 +24,10 @@
 
 ## 3. 我的興趣 Interests
 
-* 🏀 **運動**：羽球、慢跑
-* 🎵 **音樂**：流行音樂、鄉村音樂
-* 🎮 **休閒**：小說、電影
-* 💻 **學習**：Python、AI、生物資訊
+- 🏀 **運動**：羽球、慢跑
+- 🎵 **音樂**：流行音樂、鄉村音樂
+- 🎮 **休閒**：小說、電影
+- 💻 **學習**：Python、AI、生物資訊
 
 ---
 
@@ -44,28 +45,28 @@
 
 ### Project 1｜我的第一個 Python 程式
 這是我在課堂中完成的第一個 Python 小作品。我學會如何使用變數、輸入資料，以及將結果顯示在畫面上。
-* **GitHub 連結**：[https://github.com/your-account/your-project](https://github.com/your-account/your-project)
+- **GitHub 連結**：[Repository 連結](https://github.com/0153B031)
 
 ### Project 2｜（自行填寫）
-* **作品內容**：__________________________________________________
-* **GitHub 連結**：________________________________________________
+- **作品內容**：__________________________________________________
+- **GitHub 連結**：________________________________________________
 
 ---
 
 ## 6. 我的學習目標 Goals
 
-- [ ] 學會 Python 基礎程式設計。
-- [ ] 學會使用 Git 與 GitHub 管理自己的作品。
-- [ ] 建立自己的第一個個人網站。
-- [ ] 未來能將程式設計應用在自己的專業領域。
+1. 學會 Python 基礎程式設計。
+2. 學會使用 Git 與 GitHub 管理自己的作品。
+3. 建立自己的第一個個人網站。
+4. 未來能將程式設計應用在自己的專業領域。
 
 ---
 
 ## 7. 聯絡我 Contact
 
-* **Email**：Chiamin66888@gmail.com
-* **GitHub**：[https://github.com/0153B031](https://github.com/0153B031)
-* **其他公開連結（選填）**：LinkedIn / 個人作品集 / 社群網站
+- **Email**：Chiamin66888@gmail.com
+- **GitHub**：[https://github.com/0153B031](https://github.com/0153B031)
+- **其他公開連結**：LinkedIn / 個人作品集 / 社群網站
 
 ---
 
@@ -73,4 +74,4 @@
 
 > 希望一年後回來看這個網頁時，我已經學會更多程式設計技巧，也完成更多自己的作品。
 > 
-> *Of course, to the Danger Zone.*
+> *Of course, to the Danger Zone。*
